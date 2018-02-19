@@ -1,4 +1,4 @@
-# ReCaptchaSend
+# ReCaptchaSend for Gamekit.com
 Clicks on Send Button on Gamekit after 10s 
 
 ##Automatic Star rating on Gamekit (Chrome Turorial)
