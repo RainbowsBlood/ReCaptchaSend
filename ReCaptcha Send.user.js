@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         ReCaptcha Send
-// @namespace    Gorazd
-// @version      0.1
+// @namespace    RainbowsBlood
+// @version      0.2
 // @description  sending Captcha
-// @author       Gorazd
+// @author       RainbowsBlood
 // @match        https://gamekit.com/image/star/captcha/
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitImageAutoRate/GamekitImageAutoRate.user.js
+// @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitImageAutoRate/GamekitImageAutoRate.user.js
 // ==/UserScript==
 
 (function() {
